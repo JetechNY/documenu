@@ -1,4 +1,4 @@
-# documenu-npm
+# documenu npm package
 
 Documenu is an that API provides access to a Database of over 600,000 US Restaurant Menus with over 50,000,000 individual menu items.
 [https://documenu.com](https://documenu.com)
