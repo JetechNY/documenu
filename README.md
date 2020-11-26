@@ -1,7 +1,7 @@
-# documenu npm package
+# Documenu npm package
 
 Documenu is an that API provides access to a Database of over 600,000 US Restaurant Menus with over 50,000,000 individual menu items.
-[https://documenu.com](https://documenu.com)
+[https://documenu.com](https://documenu.com?utm_source=github%2Cnpm&utm_medium=readme%2Chomepage&utm_campaign=general_github)
 
 This package is intended to make it easier to interact with the API when using NodeJS
 
@@ -12,7 +12,7 @@ npm install -S documenu
 
 ## Configure
 
-In order to use this API you need an API key. You can get it here: [Get API Key](https://documenu.com/register)
+In order to use this API you need an API key. You can get it here: [Get API Key](https://documenu.com/register?utm_source=github%2Cnpm&utm_medium=readme%2Chomepage&utm_campaign=general_github)
 
 ```js
 const Documenu = require('documenu')
@@ -130,6 +130,6 @@ Documenu.Restaurants.MenuItems.searchGeo(params)
 
 ## API Docs
 
-View API Docs here: [https://documenu.com/docs](https://documenu.com/docs)
+View API Docs here: [https://documenu.com/docs](https://documenu.com/docs?utm_source=github%2Cnpm&utm_medium=readme%2Chomepage&utm_campaign=general_github)
 
 For Support Email support@documenu.com
